@@ -64,6 +64,7 @@ const signup = async (req, res) => {
     
 };
 
+
 module.exports = {
     loginPage, signupPage, login, logout, signup
 };
